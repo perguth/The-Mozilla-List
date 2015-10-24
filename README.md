@@ -24,6 +24,7 @@
 - [planet mozilla](https://planet.mozilla.org/) `community`
 - [The Mozilla Blog](https://blog.mozilla.org/) `press`
 
+<small>[**↑** top](#)</small>
 
 ## Mozillians
 
