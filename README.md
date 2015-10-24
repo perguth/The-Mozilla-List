@@ -1,4 +1,4 @@
-# The Mozilla List
+# The (unofficial) Mozilla List
 
     A list of all things Mozilla.
 
