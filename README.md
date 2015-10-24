@@ -20,13 +20,28 @@
 - [The Mozilla Blog](https://blog.mozilla.org/) `press`
 
 
-## Staff
-
-- [Mitchell Baker](https://blog.lizardwrangler.com/)
-
-
 ## Mozillians
 
 - [about:community](https://blog.mozilla.org/community/) `community`
 - [Michael Kohler](http://www.michaelkohler.info/)
+- [Mozillia Nepal](http://blog.mozilla-nepal.org/) `community`
 - [The Womoz Blog](http://www.womoz.org/blog/) `community`
+
+
+## Projects
+
+- [BrowserQuest](http://browserquest.mozilla.org/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/)
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+- [Firefox OS](https://www.mozilla.org/en-US/firefox/os)
+- [Mozilla Persona](https://www.mozilla.org/en-US/persona/)
+- [Mozilla Learning Network](https://teach.mozilla.org/)
+- [MozVR](http://mozvr.com/)
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+- [Webmaker](https://webmaker.org/)
+
+
+## Staff
+
+- [Mitchell Baker](https://blog.lizardwrangler.com/)
+
