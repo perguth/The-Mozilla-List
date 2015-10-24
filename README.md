@@ -3,7 +3,7 @@
     A list of all things Mozilla.
 
 
-## Project Blogs
+## Blogs
 
 - [Advancing Content](https://blog.mozilla.org/advancingcontent/) `press`
 - [Future Releases](https://blog.mozilla.org/futurereleases/) `press`
@@ -20,7 +20,7 @@
 - [The Mozilla Blog](https://blog.mozilla.org/) `press`
 
 
-## Mozillia Staff
+## Staff
 
 - [Mitchell Baker](https://blog.lizardwrangler.com/)
 
