@@ -32,6 +32,7 @@
 - [about:community](https://blog.mozilla.org/community/) `community`
 - [Michael Kohler](http://www.michaelkohler.info/)
 - [Mozillia Nepal](http://blog.mozilla-nepal.org/) `community`
+- [Soeren Hentzschel](https://www.soeren-hentzschel.at/) `ger`
 - [The Womoz Blog](http://www.womoz.org/blog/) `community`
 
 <small>[[↑ top]](#)</small>
