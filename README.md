@@ -1,6 +1,13 @@
-# The (unofficial) Mozilla List
+# The (unofficial) Mozilla List <sup>[(edit)](https://github.com/pguth/The-Mozilla-List/edit/master/README.md)</sup>
 
     A list of all things Mozilla.
+
+**Contents**
+
+- [Blog](#blog)
+- [Mozillians](#mozillians)
+- [Projects](#projects)
+- [Staff](#staff)
 
 
 ## Blogs
