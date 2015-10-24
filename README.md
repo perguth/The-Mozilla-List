@@ -13,6 +13,7 @@
 - [Mozilla Labs](https://mozillalabs.com/en-US/) `dev` `press`
 - [Mozilla Learning](https://blog.webmaker.org/) `dev` `teach`
 - [Mozilla Privacy Blog](https://blog.mozilla.org/privacy/) `org` `privacy`
+- [Mozilla Science Lab](https://www.mozillascience.org/blog)
 - [Mozilla Security Blog](https://blog.mozilla.org/security/) `org` `security`
 - [MozVR](http://mozvr.com/) `3d` `dev`
 - [planet mozilla](https://planet.mozilla.org/)
