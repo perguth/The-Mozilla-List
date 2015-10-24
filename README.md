@@ -21,7 +21,11 @@
 - [The Womoz Blog](http://www.womoz.org/blog/) `community`
 
 
+## Mozillia Staff
+
+- [Mitchell Baker](https://blog.lizardwrangler.com/)
+
+
 ## Mozillians
 
-- [Mitchell Baker](https://blog.lizardwrangler.com/) `staff`
 - [Michael Kohler](http://www.michaelkohler.info/)
