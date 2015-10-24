@@ -24,7 +24,8 @@
 - [planet mozilla](https://planet.mozilla.org/) `community`
 - [The Mozilla Blog](https://blog.mozilla.org/) `press`
 
-<small>[**↑** top](#)</small>
+<small>[↑ top](#)</small>
+
 
 ## Mozillians
 
@@ -32,6 +33,8 @@
 - [Michael Kohler](http://www.michaelkohler.info/)
 - [Mozillia Nepal](http://blog.mozilla-nepal.org/) `community`
 - [The Womoz Blog](http://www.womoz.org/blog/) `community`
+
+<small>[↑ top](#)</small>
 
 
 ## Projects
@@ -46,8 +49,11 @@
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
 - [Webmaker](https://webmaker.org/)
 
+<small>[↑ top](#)</small>
+
 
 ## Staff
 
 - [Mitchell Baker](https://blog.lizardwrangler.com/)
 
+<small>[↑ top](#)</small>
