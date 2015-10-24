@@ -2,7 +2,7 @@
 
     A list of all things Mozilla.
 
-- [Blog](#blog)
+- [Blogs](#blogs)
 - [Mozillians](#mozillians)
 - [Projects](#projects)
 - [Staff](#staff)
