@@ -44,6 +44,7 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [Firefox OS](https://www.mozilla.org/en-US/firefox/os)
+- [Instantbird](http://www.instantbird.org/)
 - [Mozilla Persona](https://www.mozilla.org/en-US/persona/)
 - [Mozilla Learning Network](https://teach.mozilla.org/)
 - [MozVR](http://mozvr.com/)
